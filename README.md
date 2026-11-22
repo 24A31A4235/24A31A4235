@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Varun Doddipatla 👋
 
-<!--
-**24A31A4235/24A31A4235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 III B.Tech CSE (AI&ML) student at Pragati Engineering College, Surampalem
+💻 I build AI/ML projects in Python and web apps with React
+📫 varundoddipatla@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/varun-doddipatla-0a160a212/)
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **AI-Based People Counting Analytics System** — Real-time people detection, tracking and counting using YOLOv8 and a PyQt5 dashboard.
+- **IMDB Sentiment Analysis** — Movie review sentiment classification with DistilBERT and FastAPI.
+- **Snake Game (React)** — Classic Snake game built with React, Vite and TypeScript.
+- **Feed The Future** — Food donation platform connecting restaurants with surplus food to people in need.
+
+## 🛠️ Skills
+
+Python · Machine Learning · FastAPI · React · TypeScript · HTML/CSS · Git
